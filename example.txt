@@ -1,2 +1,0 @@
-This is a text file that I made to test git commands
-My name is Bryan and I am a software developer
